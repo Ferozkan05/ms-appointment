@@ -1,0 +1,19 @@
+{
+  "name": "appointment",
+  "version": "1.0.0",
+  "main": "appointment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferozkan05/ms-appointment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferozkan05/ms-appointment/issues"
+  },
+  "homepage": "https://github.com/Ferozkan05/ms-appointment#readme",
+  "description": ""
+}
